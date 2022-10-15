@@ -7,3 +7,6 @@ The brand personality and style was established and incorporated into the app de
 ## Design approach
 The British Council’s Double Diamond approach to iterative design was implemented as a framework through the visual design process.
 
+## The problem
+Pinusa needs to find a way to organize and edit her vlog projects because she is struggling with the number of platforms she is currently using.
+
